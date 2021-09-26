@@ -16,7 +16,7 @@
 mkdir qinglong
 cd qinglong
 # 下载docker-compose.yml文件
-wget https://raw.githubusercontent.com/whyour/qinglong/develop/docker-compose.yml
+wget https://raw.githubusercontent.com/weweyes/qinglong/develop/docker-compose.yml
 # 启动
 docker-compose up -d
 ```
